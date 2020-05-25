@@ -45,4 +45,4 @@ php artisan cache:clear
 ```
 
 ### Step 5.
-Use your forum~ Visit http://nepfor.test/threads to create a new account and publish your first thread.
+Use your forum Visit http://nepfor.test/threads to create a new account and publish your first thread.
