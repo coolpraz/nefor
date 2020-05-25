@@ -38,7 +38,7 @@
                         </div>
 
                         <div class="form-group">
-                            <div class="g-recaptcha" data-sitekey="6Lcs8fkUAAAAAMASv7j2xFobpHCMBOzEpZhYZqB5"></div>
+                            <div class="g-recaptcha" data-sitekey="{{ config('nepfor.recaptcha.key') }}"></div>
                         </div>
 
                         <div class="form-group">
